@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 B.Tech Robotics & Automation student at LPU<br>🤖 Exploring Space Robotics with AI & Computer Vision in ROS<br>💡 Seeking collaboration for stellar projects<br>🔧 Skills: Robotics, Automation, AI, Computer Vision<br>🌠 Join me on my cosmic coding journey!<br>🌐✉️ Contact: shivasaikrishna23@gmail.com<br>
+🚀 Masters in Robotics @ University of Delaware<br>🤖 Exploring Space Robotics with AI & Computer Vision in ROS<br>💡 Seeking collaboration for stellar projects<br>🔧 Skills: Robotics, Automation, AI, Computer Vision<br>🌠 Join me on my cosmic coding journey!<br>🌐✉️ Contact: shivasaikrishna23@gmail.com<br>
 
 
 ## 🌐 Socials:
